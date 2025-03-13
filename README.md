@@ -13,17 +13,5 @@ C++ (Object-Oriented Programming)
 File Handling for data storage
 Console-based User Interface
 Installation and Usage
-Clone the Repository
-sh
-Copy
-Edit
-git clone https://github.com/yourusername/hotel-management-system.git
-Compile and Run
-sh
-Copy
-Edit
-g++ hotel_management.cpp -o hotel_management  
-./hotel_management  
-Follow the on-screen instructions to use the system.
-Contributing
+
 Contributions are welcome. If you would like to improve the system, please open an issue or submit a pull request.
